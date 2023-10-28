@@ -3,7 +3,7 @@ function love.load()
     cam = camera()
 
     game = "start"
-    score, highScore, volume = 0, 0, 0.75
+    score, volume = 0, 0.75
     sound, written = true, false
     pipes = {}
 
