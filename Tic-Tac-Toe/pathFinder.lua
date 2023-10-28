@@ -1,0 +1,7 @@
+require "src/botCode"
+require "src/checkWin"
+require "UIControls/buttons"
+require "UIControls/hotkeys"
+require "src/init/squares"
+require "src/endgame"
+require "src/init/init"
